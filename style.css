@@ -5,4 +5,8 @@ body {
 img {
     -webkit-filter: invert(1);
     filter: invert(1);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40%;
 }
